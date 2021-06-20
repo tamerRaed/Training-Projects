@@ -1,4 +1,4 @@
-package taskTwo;
+package trainingprojects.taskTwo;
 
 import java.util.LinkedList;
 import java.util.Scanner;

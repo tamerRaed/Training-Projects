@@ -1,4 +1,4 @@
-package taskTwo;
+package trainingprojects.taskTwo;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
